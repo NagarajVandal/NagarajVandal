@@ -1,6 +1,6 @@
 ## Hi, I'm Nagaraj👋 
 
-<img src="./Images/coder.svg" alt="Image That shows A guy Coding" width="200px" height="200px">
+<img src="./Images/coder.svg" align="left" alt="Image That shows A guy Coding" width="200px" height="200px">
 Hi. I’m Nagaraj Vandal. I build lots of demos on this account . Most of them are built by me for my own experience,through which i can enhance and enrich my skills
 and understand the core concepts of front end development very well
 
