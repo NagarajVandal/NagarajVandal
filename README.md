@@ -1,7 +1,8 @@
 ## Hi, I'm Nagaraj 👋🏼 👨🏽‍💻
 
 <p>
-<img src="/Images/coder.svg" align="left" alt="Image That shows A guy Coding" width="300px" height="300px">
+<img src="https://raw.githubusercontent.com/NagarajVandal/NagarajVandal/master/Images/coder.png" align="left" alt="Image That shows A guy Coding" width="300px" height="300px">
+  
 </p>
 <br />
 <br />
