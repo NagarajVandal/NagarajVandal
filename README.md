@@ -2,7 +2,7 @@
 
 <p>
 
- [a link](https://raw.githubusercontent.com/NagarajVandal/NagarajVandal/master/Images/coder.png) 
+ [a link](https://raw.githubusercontent.com/NagarajVandal/NagarajVandal/master/Images/coder.svg) 
 </p>
 <br />
 <br />
