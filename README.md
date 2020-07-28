@@ -1,6 +1,7 @@
 ## Hi, I'm Nagaraj 👋🏼 👨🏽‍💻
 
-![coder](https://user-images.githubusercontent.com/17054171/88716063-19d73a80-d13c-11ea-966a-2af685adc891.png)
+
+<img src="https://user-images.githubusercontent.com/17054171/88716063-19d73a80-d13c-11ea-966a-2af685adc891.png" align="left" alt="Image That shows A guy Coding" width="300px" height="300px">
 <br />
 <br />
 <br />
