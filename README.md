@@ -3,7 +3,6 @@
 <p>
 <img src="/Images/coder.svg" align="left" alt="Image That shows A guy Coding" width="300px" height="300px">
 </p>
-![New Image] (/Images/coder.svg)
 <br />
 <br />
 <br />
