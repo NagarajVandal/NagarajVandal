@@ -1,9 +1,6 @@
 ## Hi, I'm Nagaraj 👋🏼 👨🏽‍💻
 
-<p>
-
- [a link](https://raw.githubusercontent.com/NagarajVandal/NagarajVandal/master/Images/coder.svg) 
-</p>
+![coder](https://user-images.githubusercontent.com/17054171/88716063-19d73a80-d13c-11ea-966a-2af685adc891.png)
 <br />
 <br />
 <br />
