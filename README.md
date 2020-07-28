@@ -1,6 +1,6 @@
 ## Hi, I'm Nagaraj👋 
 
-<img src="./Images/coder.svg" align="left" alt="Image That shows A guy Coding" width="300px" height="200px">
+<img src="./Images/coder.svg" align="left" alt="Image That shows A guy Coding" width="300px" height="300px">
 <br />
 <br />
 
