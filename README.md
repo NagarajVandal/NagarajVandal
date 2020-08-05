@@ -14,3 +14,11 @@ and understand the core concepts of front end development very well
 
 I work at K12 Techno Services as a Software Engineer, situated in Bengaluru , Karnataka ,India.
 
+### Connect with me:
+
+[<img align="left" alt="https://nagarajvandal.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Nagaraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nagaraj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
